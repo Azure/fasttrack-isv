@@ -28,8 +28,8 @@ jobs:
     - name: Run convert_to_md.py
       run: python ./.github/automation/convert_to_md.py
       env:
-        JSON_FILE_PATH: ./content.json
-        MARKDOWN_FILE_PATH: ./README_AUTO.md
+        JSON_FILE_PATH: ./.github/automation/content.json
+        MARKDOWN_FILE_PATH: ./README.md
     
     - name: Push changes to public facing Github
       run: |
