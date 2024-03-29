@@ -1,1 +1,20 @@
-{}
+{
+    "Cloud Native": [
+        {
+            "id": 4104,
+            "title": "Azure Policy for Azure Container Apps",
+            "link": "https://github.com/Azure-Samples/aca-azure-policy",
+            "date": "2023-04-03",
+            "description": "<span style=\"color:rgb(31, 35, 40);font-family:-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;;font-size:16px;display:inline !important;\">This repository contains<span> </span></span><a href=\"https://learn.microsoft.com/en-us/azure/governance/policy/overview\" rel=nofollow style=\"box-sizing:border-box;font-family:-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;;font-size:16px;\">Azure Policy</a><span style=\"color:rgb(31, 35, 40);font-family:-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;;font-size:16px;display:inline !important;\"><span> </span>custom definitions for<span> </span></span><a href=\"https://learn.microsoft.com/en-us/azure/container-apps/overview\" rel=nofollow style=\"box-sizing:border-box;font-family:-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;;font-size:16px;\">Azure Container Apps</a><span style=\"color:rgb(31, 35, 40);font-family:-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;;font-size:16px;display:inline !important;\">. Any contribution is more than welcome. Feel free to submit a pull request to add or update custom policy definitions.</span>"
+        }
+    ],
+    "Data & AI": [
+        {
+            "id": 18634,
+            "title": "Maximizing Accuracy in Azure Document Intelligence",
+            "link": "https://techcommunity.microsoft.com/t5/azure-for-isv-and-startups/optimizing-data-extraction-accuracy-with-custom-models-in-azure/ba-p/4095089",
+            "date": "2024-03-28",
+            "description": "<span>This article is designed to highlight strategies for custom model creation in Azure AI Document Intelligence to provide accurate data extraction from various document types. It will explore common pitfalls with building custom models based on real-world use cases, and provide solutions to highlight the impact of accurate data extraction.</span>"
+        }
+    ]
+}
