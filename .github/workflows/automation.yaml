@@ -3,7 +3,7 @@ name: Add Repos to Markdown Page
 on:
   push:
     paths:
-      - './.github/automation/content.json'
+      - '.github/automation/content.json'
   workflow_dispatch:
 
 permissions: write-all
