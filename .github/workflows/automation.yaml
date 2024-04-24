@@ -2,6 +2,8 @@ name: Add Repos to Markdown Page
 
 on:
   push:
+    branches: 
+      - 'main'
     paths:
       - '.github/automation/content.json'
   workflow_dispatch:
